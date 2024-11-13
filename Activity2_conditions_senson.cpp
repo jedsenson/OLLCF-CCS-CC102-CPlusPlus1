@@ -6,7 +6,7 @@ int main()
 {
 	int age;
 	
-	cout << "What is your age?/t/t:"; 
+	cout << "What is your age?"; 
 	cin >> age;
 	
 	if (age < 16){
